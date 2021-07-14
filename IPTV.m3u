@@ -121,3 +121,9 @@ http://livetv.dnsfor.me:80/channel.10.m3u8
 http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 ,TVS2
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 ,環球電影頻道
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 ,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 ,TVB翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
