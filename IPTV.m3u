@@ -151,3 +151,11 @@ http://149.129.100.78/guangdong.php?id=74
 http://149.129.100.78/guangdong.php?id=49
 #EXTINF:-1 tvg-id="GuangDongZongYi.cn" tvg-name="广东综艺" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东综艺
 http://149.129.100.78/guangdong.php?id=16
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.es" tvg-name="Rakuten TV Action Movies France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten TV Action Movies France (720p)
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.es" tvg-name="Rakuten TV Comedy Movies France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Movies",Rakuten TV Comedy Movies France (720p)
+https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaFrance.es" tvg-name="Rakuten TV Drama France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten TV Drama France (720p)
+https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesFrance.es" tvg-name="Rakuten TV Family Movies France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Movies",Rakuten TV Family Movies France (720p)
+https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
