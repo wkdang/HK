@@ -1,20 +1,38 @@
 #EXTM3U
 #EXTINF:-1 ,TVB翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 ,TVS2
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 ,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 ,ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 ,香港开电视 / HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,無綫新聞台-1
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 ,無綫財經·資訊台-1
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1,J2
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:-1 ,港台电视31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,港台电视32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 ,广东珠江
+http://149.129.100.78/guangdong.php?id=44
+#EXTINF:-1 ,广东影视
+http://149.129.100.78/guangdong.php?id=53
 #EXTINF:-1 ,TVB 星河台 Xing He
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,港台電視31
 http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
 #EXTINF:-1 ,港台新聞32
 http://185.207.176.189:8080/channels/tv-32/mpeg.2ts
-#EXTINF:-1 ,ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 ,ViuTV (备)
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 ,ViuTV 6
 http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
-#EXTINF:-1 ,ViuTVsix
-http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 ,RTHK32
 http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1 ,香港開電視
@@ -33,18 +51,10 @@ http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 ,港台电视31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 ,港台电视32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 ,港台電視32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
 #EXTINF:-1 ,港视32台
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 ,無綫新聞台-1
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 ,無綫財經·資訊台-1
-http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 ,风凰资讯
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
 #EXTINF:-1 ,凤凰中文
@@ -113,16 +123,10 @@ http://livetv.dnsfor.me:80/channel.3.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1,TVB 翡翠台
 http://livetv.dnsfor.me:80/channel.18.m3u8
-#EXTINF:-1,J2
-http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1,無綫新聞台
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1,無綫財經資訊台
 http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 ,TVS2
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
-#EXTINF:-1 ,香港开电视 / HKSTV-HKS
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="GuangDongTiYu.cn" tvg-name="广东体育" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东体育
 http://149.129.100.78/guangdong.php?id=47
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广东卫视
@@ -135,20 +139,19 @@ http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 http://149.129.100.78/guangdong.php?id=46
 #EXTINF:-1 tvg-id="GuangDongShaoEr.cn" tvg-name="广东少儿" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东少儿
 http://149.129.100.78/guangdong.php?id=54
-#EXTINF:-1 tvg-id="GuangDongYingShi.cn" tvg-name="广东影视" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东影视
-http://149.129.100.78/guangdong.php?id=53
 #EXTINF:-1 tvg-id="GuangDongFangChan.cn" tvg-name="广东房产" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东房产
 http://149.129.100.78/guangdong.php?id=67
 #EXTINF:-1 tvg-id="GuangDongWenHua.cn" tvg-name="广东文化" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东文化
 http://149.129.100.78/guangdong.php?id=75
 #EXTINF:-1 tvg-id="GuangDongXinWen.cn" tvg-name="广东新闻" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东新闻
 http://149.129.100.78/guangdong.php?id=45
-#EXTINF:-1 tvg-id="ZhuJiangPinDao.cn" tvg-name="珠江频道" tvg-country="CN" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="",广东珠江
-http://149.129.100.78/guangdong.php?id=44
 #EXTINF:-1 tvg-id="GuangDongYiDong.cn" tvg-name="广东移动" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东移动
 http://149.129.100.78/guangdong.php?id=74
 #EXTINF:-1 tvg-id="GuangDongJingJiKeJiao.cn" tvg-name="广东经济科教" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东经济科教
 http://149.129.100.78/guangdong.php?id=49
 #EXTINF:-1 tvg-id="GuangDongZongYi.cn" tvg-name="广东综艺" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东综艺
 http://149.129.100.78/guangdong.php?id=16
-
+#EXTINF:-1 tvg-id="ZhuJiangPinDao.cn" tvg-name="珠江频道" tvg-country="CN" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="",广东珠江
+http://149.129.100.78/guangdong.php?id=44
+#EXTINF:-1 tvg-id="GuangDongYingShi.cn" tvg-name="广东影视" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东影视
+http://149.129.100.78/guangdong.php?id=53
