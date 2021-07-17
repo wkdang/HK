@@ -162,3 +162,5 @@ https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-nba.png" group-title="Sports",NBA TV (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="GuangDongZongYi2.cn" tvg-name="广东综艺2" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东综艺2
+http://www.gdtv.com.cn/tvChannelDetail/45
