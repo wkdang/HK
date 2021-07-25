@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,TVB翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 ,TVS2
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 ,ViuTV
@@ -162,3 +162,5 @@ https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-nba.png" group-title="Sports",NBA TV (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 ,TVB翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
