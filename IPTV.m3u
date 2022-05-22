@@ -6,7 +6,8 @@ http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 ,TVS2
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 ,ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 ,ViuTVsix
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 ,香港开电视 / HKSTV-HKS
