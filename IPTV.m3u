@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,TVB翡翠台(work)
-http://210.209.13.38/sta/CH509.m3u8
+https://cdn.hklive.tv/raw/81.ts
 #EXTINF:-1 ,TVB翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 ,TVS2
